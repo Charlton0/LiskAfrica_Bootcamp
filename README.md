@@ -77,7 +77,20 @@ Blockchain networks can be categorized into **public** and **private** blockchai
 - **Private Blockchains**: These are restricted to a set group of participants. They are often used by businesses for internal purposes where control and privacy are important. Examples include **Hyperledger** and **Corda**.
 
 ---
-## How to install Mestamask and Set Environment for Smart contract Deployment on Lisk
+### 🦊 How to Install MetaMask
+
+To get started with blockchain applications, you'll need a crypto wallet like **MetaMask**. Follow these simple steps to install MetaMask as a browser extension:
+
+1. Visit the official [MetaMask website](https://metamask.io/) and click on **“Download”**.
+2. Choose your browser (e.g., Chrome, Firefox, Brave, or Edge).
+3. Click **“Install MetaMask”** and follow the prompts to add the extension.
+4. Once installed, open MetaMask and click **“Create a Wallet”**.
+5. Securely save your **Secret Recovery Phrase** (also known as seed phrase).  
+   > ⚠️ **Important:** Never share your seed phrase with anyone!
+6. Set a strong password and confirm your wallet setup.
+7. You're now ready to use MetaMask!  
+   You can add custom networks like **Lisk Mainnet** or **Lisk Sepolia**, receive test tokens from a faucet, and explore blockchain apps.
+
 ![Image Alt](https://raw.githubusercontent.com/Charlton0/LiskAfrica_Bootcamp/76c468d443373f65fbbd009cd1cea3f26d44b5be/Installing%20Metamask.png).
 
 ---
