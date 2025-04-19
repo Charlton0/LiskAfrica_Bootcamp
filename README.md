@@ -78,7 +78,7 @@ Blockchain networks can be categorized into **public** and **private** blockchai
 
 ---
 ## How to install Mestamask and Set Environment for Smart contract Deployment on Lisk
-![Image Alt]().
+![Image Alt](https://raw.githubusercontent.com/Charlton0/LiskAfrica_Bootcamp/76c468d443373f65fbbd009cd1cea3f26d44b5be/Installing%20Metamask.png).
 
 ---
 
