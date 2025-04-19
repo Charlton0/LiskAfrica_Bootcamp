@@ -77,6 +77,10 @@ Blockchain networks can be categorized into **public** and **private** blockchai
 - **Private Blockchains**: These are restricted to a set group of participants. They are often used by businesses for internal purposes where control and privacy are important. Examples include **Hyperledger** and **Corda**.
 
 ---
+## How to install Mestamask and Set Environment for Smart contract Deployment on Lisk
+![Image Alt]().
+
+---
 
 ## Cryptography: The Backbone of Blockchain Security
 
