@@ -49,6 +49,7 @@ Let’s explore how blockchain works in simple steps:
 5. **Confirmation**: 
    - Once added, the transaction is complete and recorded permanently on the blockchain. Everyone in the network has access to the updated blockchain, and no one can change the history of the transactions.
 
+![Image Alt](https://github.com/Charlton0/LiskAfrica_Bootcamp/blob/76c468d443373f65fbbd009cd1cea3f26d44b5be/How%20Blockchain%20Works.png).
 ---
 
 ## Consensus Mechanisms
